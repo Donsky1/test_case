@@ -4,7 +4,7 @@ def func1w():
 
 
 def func2w():
-    print('windows_2.0')
+    print('windows_2.1')
 
 
 func1w()
